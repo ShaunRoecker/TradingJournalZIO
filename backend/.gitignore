@@ -1,0 +1,9 @@
+project/target
+project/project
+target
+.bsp
+.metals
+.bloop
+.idea
+.DS_Store
+dist
