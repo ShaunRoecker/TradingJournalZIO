@@ -27,7 +27,8 @@ lazy val commonSettings = Seq(
     "-unchecked",
     "-Werror",
     "-Xfatal-warnings",
-    "-Ymacro-annotations"
+    "-Ymacro-annotations",
+    "-Ywarn-unused:imports"
   )
 )
 
